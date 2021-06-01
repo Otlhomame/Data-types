@@ -1,19 +1,19 @@
 '''
 data types
 '''
-# s="fr"
-# print(s)
-# print(type(s))
+s="2"
+print(s)
+print(type(s))
 
-# =============================================
+#=============================================
 #find character by index
-# s= "string sample"
-# print (s[5])
+s= "string sample"
+print (s[5])
 
 # #slicing
 # print(s[0:6])
 
-#immutable
+# immutable
 # s= "string sample"
 # s[2]= 'o'
 # print(s[2])
@@ -40,7 +40,7 @@ data types
 # '''
 # range
 # '''
-# x= range(11)
+# x= range(5)
 # for n in x:
 #   print (n)
 
@@ -56,17 +56,19 @@ data types
 # print(dict)
 
 # '''
-# SEt data types
+# Set data types
 # '''
-# set= {5.3, "hi", (1,2,3), [4,3,2]}
+# set= {5.3, "hi", (1,2,3)}
 # print(set)
 
-'''
-boolean type
-'''
+# '''
+# boolean type
+# '''
 # print(type(True))
 # print(True==1)
 # print(False==0)
 # print(True+True)
 
-print(False or True)
+#print(False or True)
+Name= "stevben"
+print(Name)
